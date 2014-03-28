@@ -42,4 +42,15 @@ The most important part is in [GwtHighmaps.java](./gwtapp/src/com/mycom/gwthighm
       
       return map;
 
+The [Map.java](./gwtapp/src/com/mycom/gwthighmaps/client/Map.java) class
 
+     public class Map extends BaseChart<Map>
+     {
+     
+        @Override
+        protected String getChartTypeName()
+        {
+           return "Map";
+        }
+     
+     }
