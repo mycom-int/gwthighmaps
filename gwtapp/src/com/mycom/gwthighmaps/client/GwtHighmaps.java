@@ -78,8 +78,6 @@ public class GwtHighmaps implements EntryPoint
 
       map.addSeries(series);
 
-      System.out.println(map.getOptions());
-      System.out.println(map.getSeries()[0].getOptions());
       return map;
    }
 
