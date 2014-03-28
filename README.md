@@ -11,7 +11,7 @@ Test usage of highcharts moxie wrapper 1.6 with highmaps 1.0.0-beta. See what is
  
 # What it looks like
 
-![map](./maps.png)
+![map](./map.png)
 
 # The code
 
