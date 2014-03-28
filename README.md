@@ -15,7 +15,7 @@ Test usage of highcharts moxie wrapper 1.6 with highmaps 1.0.0-beta. See what is
 
 # The code
 
-The most important part is in [GwtHighmaps.java](./src/com/mycom/gwthighmaps/client/GwtHighmaps.java)
+The most important part is in [GwtHighmaps.java](./gwtapp/src/com/mycom/gwthighmaps/client/GwtHighmaps.java)
 
 
       // Define world map
