@@ -1,4 +1,4 @@
-package com.mycom.gwthighmaps.client;
+package com.mycom.gwthighmaps.client.mapwrapper;
 
 import org.moxieapps.gwt.highcharts.client.BaseChart;
 
