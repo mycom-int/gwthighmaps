@@ -64,7 +64,6 @@ public class GwtHighmaps implements EntryPoint
       Loader loader = new FileLoader();
 
       final Map map = new Map();
-      map.setTitle("test titre");
 
       setColorAxis(map);
 

@@ -4,6 +4,7 @@ import org.moxieapps.gwt.highcharts.client.BaseChart;
 
 public class Map extends BaseChart<Map>
 {
+
    @Override
    protected String getChartTypeName()
    {
