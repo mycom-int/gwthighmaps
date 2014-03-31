@@ -32,7 +32,7 @@ We created a Loader interface. Its role is to provide the map and the data to th
        public JSONObject getMapData();
     }
 
-We have 2 implementaions. Of course for a "real" application we would probably have to create a web service to return the map and associated data. But here we only created client loaders (meaning there is no call to the backend to load a map).
+We have 2 implementations. Of course for a "real" application we would probably have to create a web service to return the map and associated data. But here, we only created client loaders (meaning there is no call to the backend to load a map).
 
 * [JsNativeLoader.java](./gwtapp/src/com/mycom/gwthighmaps/client/loader/js/JsNativeLoader.java)
 
