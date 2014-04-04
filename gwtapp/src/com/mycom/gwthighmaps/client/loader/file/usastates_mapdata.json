@@ -2,256 +2,256 @@
 			{
 				"code": "MI",
 				"name" : "Michigan",
-				"value": 10
+				"value": 50
 			},
 			{
 				"code": "HI",
 				"name" : "Hawaii",
-				"value": 10
+				"value": 50
 			},
 			{
 				"code": "AK",
 				"name" : "Alaska",
-				"value": 10
+				"value": 50
 			},
 			{
 				"code": "FL",
 				"name" : "Florida",
-				"value": 10
+				"value": 50
 			},
 			{
 				"code": "NH",
 				"name" : "New Hampshire",
-				"value": 10
+				"value": 50
 			},
 			{
 				"code": "VT",
 				"name" : "Vermont",
-				"value": 10
+				"value": 50
 			},
 			{
 				"code": "ME",
 				"name" : "Maine",
-				"value": 10
+				"value": 50
 			},
 			{
 				"code": "RI",
 				"name" : "Rhode Island",
-				"value": 10
+				"value": 50
 			},
 			{
 				"code": "NY",
 				"name" : "New York",
-				"value": 10
+				"value": 50
 			},
 			{
 				"code": "PA",
 				"name" : "Pennsylvania",
-				"value": 10
+				"value": 50
 			},
 			{
 				"code": "NJ",
 				"name" : "New Jersey",
-				"value": 10
+				"value": 50
 			},
 			{
 				"code": "DE",
 				"name" : "Delaware",
-				"value": 10
+				"value": 50
 			},
 			{
 				"code": "MD",
 				"name" : "Maryland",
-				"value": 10
+				"value": 50
 			},
 			{
 				"code": "VA",
 				"name" : "Virginia",
-				"value": 10
+				"value": 50
 			},
 			{
 				"code": "WV",
 				"name" : "West Virginia",
-				"value": 10
+				"value": 50
 			},
 			{
 				"code": "OH",
 				"name" : "Ohio",
-				"value": 10
+				"value": 50
 			},
 			{
 				"code": "IN",
 				"name" : "Indiana",
-				"value": 10
+				"value": 50
 			},
 			{
 				"code": "IL",
 				"name" : "Illinois",
-				"value": 10
+				"value": 50
 			},
 			{
 				"code": "CT",
 				"name" : "Connecticut",
-				"value": 10
+				"value": 50
 			},
 			{
 				"code": "WI",
 				"name" : "Wisconsin",
-				"value": 10
+				"value": 50
 			},
 			{
 				"code": "NC",
 				"name" : "North Carolina",
-				"value": 10
+				"value": 50
 			},
 			{
 				"code": "DC",
 				"name" : "District of Columbia",
-				"value": 10
+				"value": 50
 			},
 			{
 				"code": "MA",
 				"name" : "Massachusetts",
-				"value": 10
+				"value": 50
 			},
 			{
 				"code": "TN",
 				"name" : "Tennessee",
-				"value": 10
+				"value": 50
 			},
 			{
 				"code": "AR",
 				"name" : "Arkansas",
-				"value": 10
+				"value": 50
 			},
 			{
 				"code": "MO",
 				"name" : "Missouri",
-				"value": 10
+				"value": 50
 			},
 			{
 				"code": "GA",
 				"name" : "Georgia",
-				"value": 10
+				"value": 50
 			},
 			{
 				"code": "SC",
 				"name" : "South Carolina",
-				"value": 10
+				"value": 50
 			},
 			{
 				"code": "KY",
 				"name" : "Kentucky",
-				"value": 10
+				"value": 50
 			},
 			{
 				"code": "AL",
 				"name" : "Alabama",
-				"value": 10
+				"value": 50
 			},
 			{
 				"code": "LA",
 				"name" : "Louisiana",
-				"value": 10
+				"value": 50
 			},
 			{
 				"code": "MS",
 				"name" : "Mississippi",
-				"value": 10
+				"value": 50
 			},
 			{
 				"code": "IA",
 				"name" : "Iowa",
-				"value": 10
+				"value": 50
 			},
 			{
 				"code": "MN",
 				"name" : "Minnesota",
-				"value": 10
+				"value": 50
 			},
 			{
 				"code": "OK",
 				"name" : "Oklahoma",
-				"value": 10
+				"value": 50
 			},
 			{
 				"code": "TX",
 				"name" : "Texas",
-				"value": 10
+				"value": 50
 			},
 			{
 				"code": "NM",
 				"name" : "New Mexico",
-				"value": 10
+				"value": 50
 			},
 			{
 				"code": "KS",
 				"name" : "Kansas",
-				"value": 10
+				"value": 50
 			},
 			{
 				"code": "NE",
 				"name" : "Nebraska",
-				"value": 10
+				"value": 50
 			},
 			{
 				"code": "SD",
 				"name" : "South Dakota",
-				"value": 10
+				"value": 50
 			},
 			{
 				"code": "ND",
 				"name" : "North Dakota",
-				"value": 10
+				"value": 50
 			},
 			{
 				"code": "WY",
 				"name" : "Wyoming",
-				"value": 10
+				"value": 50
 			},
 			{
 				"code": "MT",
 				"name" : "Montana",
-				"value": 10
+				"value": 50
 			},
 			{
 				"code": "CO",
 				"name" : "Colorado",
-				"value": 10
+				"value": 50
 			},
 			{
 				"code": "ID",
 				"name" : "Idaho",
-				"value": 10
+				"value": 50
 			},
 			{
 				"code": "UT",
 				"name" : "Utah",
-				"value": 7
+				"value": 175
 			},
 			{
 				"code": "AZ",
 				"name" : "Arizona",
-				"value": 10
+				"value": 50
 			},
 			{
 				"code": "NV",
 				"name" : "Nevada",
-				"value": 6
+				"value": 150
 			},
 			{
 				"code": "OR",
 				"name" : "Oregon",
-				"value": 10
+				"value": 50
 			},
 			{
 				"code": "WA",
 				"name" : "Washington",
-				"value": 10
+				"value": 50
 			},
 			{
 				"code": "CA",
 				"name" : "California",
-				"value": 2
+				"value": 300
 			}
 ]

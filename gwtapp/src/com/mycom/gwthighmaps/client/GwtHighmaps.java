@@ -84,10 +84,11 @@ public class GwtHighmaps implements EntryPoint
          states.setOption("/mapData", loader.getMapData());
 
       states.setOption("/joinBy", "code");
-      states.setOption("/borderColor", "#7E7E7E");
+      states.setOption("/borderColor", "#FFFFFF");
       states.setOption("/states/hover/color", "#009deb");
       states.setOption("/dataLabels/enabled", true);
-      states.setOption("/dataLabels/color", "black");
+      states.setOption("/dataLabels/color", "#333333");
+      states.setOption("/dataLabels/style", JsonUtils.safeEval("{\"textShadow\": \"0 0 0 black\"}"));
       states.setOption("/dataLabels/format", "{point.code}");
 
       // map.setOption("/tooltip/formatter", "function(){return '<b>{point.fullname}:</b> {point.value}';}");
@@ -126,7 +127,8 @@ public class GwtHighmaps implements EntryPoint
       // map.setOption("/colorAxis/max", 1000);
       // map.setOption("/colorAxis/type", "logarithmic");
 
-      String dataClasses = "[{\"from\": 0,\"to\": 6,\"color\": \"#FF6666\"}, {\"from\": 6,\"to\": 8,\"color\": \"#FFC266\"}, {\"from\": 8,\"to\": 10,\"color\": \"#B5FF6C\"}]";
+      String dataClasses = "[{\"from\": 0,\"to\": 100,\"color\": \"#78a633\"}, "
+         + "{\"from\": 100,\"to\": 250,\"color\": \"#f26b1d\"},{\"from\": 250,\"to\": 400,\"color\": \"#a6351c\"}]";
       map.setOption("/colorAxis/dataClasses", JsonUtils.safeEval(dataClasses));
    }
 }
